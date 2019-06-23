@@ -1,0 +1,10 @@
+aprsis:
+  dns: rotate.aprs.net
+  port: 14580
+slack:
+  webhook_url: https://hooks.slack.com/services/TOKEN
+callsigns:
+#  - HB9
+#  - HB3
+  - HB9TF
+  - HB9ESX
